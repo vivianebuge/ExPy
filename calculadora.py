@@ -1,8 +1,8 @@
 # Calculadora em Python
 
 print("\n **************************** Calculadora em Python **************************\n");
-print("1 - Soma");
-print("2 - Subtração");
+print("1 - Soma/Sum");
+print("2 - Subtração/Subtration");
 print("3 - Multiplicação");
 print("4 - Divisão\n\n");
 
